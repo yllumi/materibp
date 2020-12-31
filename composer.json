@@ -1,0 +1,13 @@
+{
+    "name": "ilmilkia/materibp",
+    "require": {
+        "codeigniter/framework": "^3.1",
+        "symfony/var-dumper": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Toni Haryanto",
+            "email": "toha.samba@gmail.com"
+        }
+    ]
+}
