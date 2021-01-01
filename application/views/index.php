@@ -28,7 +28,7 @@
         .dnone {display: none;}
     </style>
 
-    <title>Hello, world!</title>
+    <title>Materi Pembinaan British Propolis</title>
 </head>
 <body style="background-image:url(<?= base_url(); ?>assets/bg.jpg);height: 100%;">
     <div class="card" style="border-radius:0; position: fixed; width:100%;top:-2px;z-index: 100">

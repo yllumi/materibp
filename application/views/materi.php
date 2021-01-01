@@ -31,7 +31,7 @@
         .chat-title {white-space: nowrap;overflow: hidden;text-overflow: ellipsis;display: inline;padding-top: 5px; font-size:20px;position: absolute;padding-left: 13px; width:85%;}
     </style>
 
-    <title>Hello, world!</title>
+    <title><?= $title; ?> - Materi Pembinaan BP</title>
 </head>
 <body style="background-image:url(<?= base_url(); ?>assets/bg.jpg);height: 100%;">
     <div class="card" style="border-radius:0; position: fixed; width:100%;top:-2px;z-index: 100">
