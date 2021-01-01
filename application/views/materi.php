@@ -51,6 +51,15 @@
                         <li class="chat-item chat-img">
                             <img src="<?= base_url($filepath.substr($message,2)); ?>" alt="">
                         </li>
+                    <?php elseif(strpos($message,';;') === 0): ?>
+                        <li class="chat-item chat-img">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <video width="320" height="240" controls>
+                                  <source src="<?= base_url($filepath.substr($message,2)); ?>" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                        </li>
                     <?php else: ?>
                         <li class="chat-item">
                             <!-- <div class="longtap" ontouchstart="mouseDown(this)" ontouchend="mouseUp(this)" onmousedown="mouseDown(this)" onmouseup="mouseUp(this)"></div> -->
