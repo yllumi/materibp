@@ -60,6 +60,11 @@
                                 </video>
                             </div>
                         </li>
+                    <?php elseif(strpos($message,'%%') === 0): ?>
+                        <audio controls>
+                            <source src="<?= base_url($filepath.substr($message,2)); ?>" type="audio/ogg">
+                            Your browser does not support the audio element.
+                        </audio>
                     <?php else: ?>
                         <li class="chat-item">
                             <!-- <div class="longtap" ontouchstart="mouseDown(this)" ontouchend="mouseUp(this)" onmousedown="mouseDown(this)" onmouseup="mouseUp(this)"></div> -->
