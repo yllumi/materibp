@@ -1,10 +1,8 @@
 Kelebihan BP dan Cara Mengkonsumsi
 ---
-::gambar0.jpg
+::cover.jpg
 ---
 Sebelum saya jelaskan materi *"Keunggulan British Propolis dan Cara Mengkonsumsinya"*, saya akan paparkan dulu tentang *APA ITU PROPOLIS?*
----
-::gambar1.jpg
 ---
 Propolis merupakan sejenis getah yang dikumpulkan lebah madu dari berbagai pohon, aliran getah, atau sumber botani lainnya, zat ini digunakan para koloni lebah untuk mempertahankan lingkungan sarang mereka dari radikal bebas, serangan virus, bakteri dan jamur melalui pengurangan pertumbuhan mikroba pada dinding sarang, mencegah aliran udara yang tidak terkendali ke sarang, menjaga kelembapan dinding sarang, serta perlindungan terhadap para hewan pemangsa. Karena itulah sarang lebah sangatlah steril dan bersih. Penelitian telah membuktikan, bahwa sarang lebah diyakini lebih steril dibandingkan dengan ruang/kamar operasi sekalipun.
 ---
@@ -27,13 +25,13 @@ Dalam dunia kedokteran sendiri propolis dikenal memiliki efek antiperadangan dan
 
 (dirangkum dari berbagai sumber)
 ---
-;;video1.mp4
+;;nurrochma.mp4
 ---
 Berikut ini adalah penjelasan dari Dr Nur Rohmah mengenai Propolis.
 ---
 Selanjutnya,saya akan menjelaskan tentang Keunggulan salah satu produk Propolis yaitu *"British Propolis"* salah satu produk premium dari UK.
 ---
-;;video2.mp4
+;;keunggulan.mp4
 ---
 *KEUNGGULAN BRITISH PROPOLIS*
 ---
@@ -193,7 +191,7 @@ Spesifikasi Produk
 Selanjutnya,saya akan jelaskan juga tentang *"Cara Konsumsi BP"*
 Simak video di bawah ini ya.
 ---
-::video3.mp4
+;;carakonsumsi.mp4
 ---
 British Propolis adalah Supplement Alami yang dalam konsumsi nya bisa juga dicampurkan dengan minuman kesukaan misal madu dan lemon.
 
