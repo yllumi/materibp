@@ -1,0 +1,22 @@
+Merapikan Folder Galeri Album Foto dan Video
+---
+::img1.jpg
+---
+Tips Cara Membuat Folder Album Baru di Galeri  bisa di lakukan dengan beberapa langkah mudah berikut ini. foto dan vidio merupakan sesuatu yang wajar .
+Terlebih saat ini para pengguna smartphone menggunakan eksternal memori dengan kapasitas penyimpanan yang cukup besar. hal ini memungkinkan kita untuk menyimpan banyak file didalamnya.
+---
+Bagi para pengguna pemula smarphone , cara membuat folder album baru agar muncul di galeri. 
+Mungkin akan sedikit membuat mereka sulit. Terlebih jika merk smartphone dan tingkatan sistem operasi yang di gunakan berbeda.
+---
+*Cara Membuat Folder Baru di Galeri*
+---
+Tujuan dari membuat folder di dalam galeri adalah untuk memenej koleksi foto dan vidio agar terlihat lebih rapi.Misalnya Anda memiliki banyak koleksi foto saat liburan di berbagai tempat, maka dengan membuat folder baru dengan nama yang sesuai lokasi akan lebih mudah lagi untuk mencarinya dikemudian hari.
+---
+*Membuat Folder Album di Aplikasi Galeri Bawaan*
+---
+Setiap Smartphone pastinya di bekali dengan aplikasi galeri bawaan. Disini saya mencontohkan dengan membuatnya melalui smartphone caranya:
+1. Buka aplikasi galeri 
+2.Tap icon Folder di sudut atas
+3.Beri nama folder
+4.Terakhir seret photo yang ingin dipindahkan ke album baru tersebut
+
