@@ -60,6 +60,7 @@
                                 </video>
                             </div>
                             <button class="btn btn-sm btn-info text-white copy-chat" onclick="mouseDown(this)">C</button>
+                            <div class="chat-message sr-only"><?= base_url($filepath.substr($message,2)); ?></div>
                         </li>
                     <?php elseif(strpos($message,'%%') === 0): ?>
                         <li class="chat-item pt-4 pb-0 pl-0">
@@ -68,6 +69,7 @@
                                 Your browser does not support the audio element.
                             </audio>
                             <button class="btn btn-sm btn-info text-white copy-chat" onclick="mouseDown(this)">C</button>
+                            <div class="chat-message sr-only"><?= base_url($filepath.substr($message,2)); ?></div>
                         </li>
                     <?php else: ?>
                         <li class="chat-item">
@@ -75,7 +77,7 @@
                             <!-- <button class="menu-chat" data-toggle="modal" data-target="#chatoptModal">=</button> -->
                             <button class="btn btn-sm btn-info text-white copy-chat" onclick="mouseDown(this)">C</button>
                             <div class="chat-message"><?= nl2br($message); ?></div>
-                        </li>                        
+                        </li>
                     <?php endif; ?>
                 <?php endforeach; ?>
 
