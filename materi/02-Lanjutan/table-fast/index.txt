@@ -1,0 +1,11 @@
+Membuat Table FAST
+---
+::gambar-table-fast.jpg
+---
+%%penjelasan-table-fast.ogg
+---
+%%mengisi-kolom-tabel.ogg
+---
+%%menentukan-kriteria-SP.ogg
+---
+%%SP-10-16.ogg
