@@ -1,102 +1,127 @@
 [
     {
         "file":"table-fast",
-        "title":"Tabel FAST"
+        "title":"Tabel FAST",
+        "status": "publish"
     },
     {
         "file":"syiar-5-menit",
-        "title":"Syiar 5 menit"
+        "title":"Syiar 5 menit",
+        "status": "draft"
     },
     {
         "file":"materi-wa-ig-fb-marketing",
-        "title":"Materi WA/IG/FB Marketing"
+        "title":"Materi WA/IG/FB Marketing",
+        "status": "draft"
     },
     {
         "file":"public-speaking-penjelasan-BP-dengan-slide",
-        "title":"public Speaking, buat vidio penjelasan BP Menggunakan slide"
+        "title":"public Speaking, buat vidio penjelasan BP Menggunakan slide",
+        "status": "draft"
     },
     {
         "file":"cara-membuat-headline-jualan-yang-menarik",
-        "title":"Cara Membuat Headline jualan yang menarik"
+        "title":"Cara Membuat Headline jualan yang menarik",
+        "status": "draft"
     },
     {
         "file":"cara-membuat-video-inshot",
-        "title":"Cara membuat video Inshot"
+        "title":"Cara membuat video Inshot",
+        "status": "draft"
     },
     {
         "file":"membuat-tagar-yang-tepat-di-IG",
-        "title":"Buat Tagar yang tepat di IG"
+        "title":"Buat Tagar yang tepat di IG",
+        "status": "draft"
     },
     {
         "file":"cara-membuat-tulisan-artikel",
-        "title":"Cara membuat tulisan/artikel"
+        "title":"Cara membuat tulisan atau artikel",
+        "status": "draft"
     },
     {
         "file":"cara-membuat-video-banpos-dengan-aplikasi-Quick",
-        "title":"Cara membuat Vidio Banpos by aplikasi Quick"
+        "title":"Cara membuat Vidio Banpos by aplikasi Quick",
+        "status": "draft"
     },
     {
         "file":"cara-membuat-giveaway-di-IG",
-        "title":"Cara membuat Giveaway di IG"
+        "title":"Cara membuat Giveaway di IG",
+        "status": "draft"
     },
     {
         "file":"membuat-link-wa-dengan-template-teks-otomatis",
-        "title":"Buat link WA isi text otomatis"
+        "title":"Buat link WA isi text otomatis",
+        "status": "draft"
     },
     {
         "file":"membuat-voicenote-dan-video-testimoni-khasiat-dan-peluang-usaha",
-        "title":"Membuat Vn dan Video Testimoni khasiat dan peluang usaha BP"
+        "title":"Membuat Vn dan Video Testimoni khasiat dan peluang usaha BP",
+        "status": "draft"
     },
     {
         "file":"bagaimana-cara-selaras-dengan-pasangan-dalam-berbisnis",
-        "title":"Bagaimana cara selaras dengan pasangan dalam berbisnis"
+        "title":"Bagaimana cara selaras dengan pasangan dalam berbisnis",
+        "status": "draft"
     },
     {
         "file":"teknik-membuat-copywriting-storytelling",
-        "title":"Teknik membuat Copywriting/Storytelling"
+        "title":"Teknik membuat Copywriting/Storytelling",
+        "status": "draft"
     },
     {
         "file":"managemen-waktu",
-        "title":"Manajemen waktu"
+        "title":"Manajemen waktu",
+        "status": "draft"
     },
     {
         "file":"managemen-keuangan",
-        "title":"Manajemen keuangan"
+        "title":"Manajemen keuangan",
+        "status": "draft"
     },
     {
         "file":"the-power-of-stock-ro",
-        "title":"The power of stock/RO"
+        "title":"The power of stock/RO",
+        "status": "draft"
     },
     {
         "file":"tips-agar-pelanggan-setia",
-        "title":"Tips agar pelanggan setia"
+        "title":"Tips agar pelanggan setia",
+        "status": "draft"
     },
     {
         "file":"pelatihan-fotografi-menggunakan-hp",
-        "title":"Pelatihan fotografi menggunakan HP"
+        "title":"Pelatihan fotografi menggunakan HP",
+        "status": "draft"
     },
     {
         "file":"cara-closing-cepat-via-bc-wa",
-        "title":"Cara closing cepat via BC WA"
+        "title":"Cara closing cepat via BC WA",
+        "status": "draft"
     },
     {
         "file":"cara-mudah-jual-produk-yang-kata-orang-mahal",
-        "title":"Cara mudah jual produk yg kata orang : MAHAL"
+        "title":"Cara mudah jual produk yg kata orang : MAHAL",
+        "status": "draft"
     },
     {
         "file":"cara-menghadapi-komplain-konsumen-efek-positif-tidak-sembuh",
-        "title":"Cara menghadapi komplain dari konsumen terutama mengenai efek positif atau tidak sembuh"
+        "title":"Cara menghadapi komplain dari konsumen terutama mengenai efek positif atau tidak sembuh",
+        "status": "draft"
     },
     {
         "file":"cara-membuat-konten-menarik",
-        "title":"Cara membuat konten yang menarik"
+        "title":"Cara membuat konten yang menarik",
+        "status": "draft"
     },
     {
         "file":"cara-buat-video-live-agar-lebih-menarik",
-        "title":"Cara buat Video live agar lebih menarik"
+        "title":"Cara buat Video live agar lebih menarik",
+        "status": "draft"
     },
     {
         "file":"cara-buat-akun-youtube-dan-memaksimalkannya",
-        "title":"Cara buat akun Youtube dan memaksimalkannya"
+        "title":"Cara buat akun Youtube dan memaksimalkannya",
+        "status": "draft"
     }
 ]

@@ -26,6 +26,7 @@
         .msg span {background: rgba(0,0,0,.8);color:white;padding: 8px 40px; border-radius: 5px;}
         .msg.hide {opacity: 0;}
         .dnone {display: none;}
+        .draft {background-color: #eee !important;color: #aaa !important;}
     </style>
 
     <title>Materi Pembinaan British Propolis</title>
@@ -48,7 +49,7 @@
                     </div>
                     <div class="list-group list-group-flush">
                         <?php foreach ($files as $file): ?>
-                            <a href="<?= site_url('materi/detail/'.$folder.$file['file']); ?>" class="list-group-item list-group-item-action"><?= $file['title']; ?></a>
+                            <a href="<?= site_url('materi/detail/'.$folder.$file['file']); ?>" class="list-group-item list-group-item-action <?= ($file['status'] ?? 'publish') == 'draft' ? 'draft disabled' : 'publish';?>"><?= $file['title']; ?></a>
                         <?php endforeach; ?>
                     </div>
               </div>
