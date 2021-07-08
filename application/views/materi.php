@@ -76,7 +76,8 @@
                             <!-- <div class="longtap" ontouchstart="mouseDown(this)" ontouchend="mouseUp(this)" onmousedown="mouseDown(this)" onmouseup="mouseUp(this)"></div> -->
                             <!-- <button class="menu-chat" data-toggle="modal" data-target="#chatoptModal">=</button> -->
                             <button class="btn btn-sm btn-info text-white copy-chat" onclick="mouseDown(this)">C</button>
-                            <div class="chat-message"><?= nl2br($message); ?></div>
+                            <div class="chat-message sr-only"><?= nl2br($message); ?></div>
+                            <div class="chat-msg-display"><?= nl2br($message); ?></div>
                         </li>
                     <?php endif; ?>
                 <?php endforeach; ?>
@@ -142,6 +143,17 @@
     const mouseUp = () => {
         clearTimeout(longPressTimer);
     };
+
+    $(function(){
+        const regex1 = /(\*)([^*]+?)(\*)/g;
+        const regex2 = /(_)([^_]+?)(_)/gs;
+        $('.chat-msg-display').each(function(index){
+            let text = $(this).html()
+            text = text.replace(regex1 , '<b>$2</b>')
+            text = text.replace(regex2 , '<i>$2</i>')
+            $(this).html(text)
+        })
+    })
 </script>
 </body>
 </html>

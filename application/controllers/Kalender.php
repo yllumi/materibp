@@ -5,14 +5,14 @@ class Kalender extends CI_Controller {
 
 	public function index($folder = '')
 	{
-		$index = directory_map('kalender/'.$folder, 1);
+		$index = directory_map('data-kalender/'.$folder, 1);
 		sort($index);
 		$this->load->view('index_kalender', compact('folder','index'));
 	}
 
 	public function detail($folder, $slug)
 	{
-		$filepath = 'kalender/'.$folder.'/'.$slug.'/';
+		$filepath = 'data-kalender/'.$folder.'/'.$slug.'/';
 		$content = file_get_contents($filepath.'/index.txt');
 		$messages = explode("\n---\n", $content);
 		$title = array_shift($messages);
@@ -23,11 +23,11 @@ class Kalender extends CI_Controller {
 
 	function generateFolder()
 	{
-		$folders = directory_map('../kalender', 1);
+		$folders = directory_map('../data-kalender', 1);
 		sort($folders);
 		$index = [];
 		foreach ($folders as $folder) {
-			$folderpath = '../kalender/'.$folder;
+			$folderpath = '../data-kalender/'.$folder;
 			$index = json_decode(file_get_contents($folderpath.'index.json'), true);
 			if($index)
 				foreach ($index as $file) {
