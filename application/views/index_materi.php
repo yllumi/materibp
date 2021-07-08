@@ -31,33 +31,39 @@
 
     <title>Materi Pembinaan British Propolis</title>
 </head>
-<body style="background-image:url(<?= base_url(); ?>assets/home.jpg);height: 100%;">
+<body style="background-image:url(<?= base_url(); ?>assets/materi.jpg);height: 100%;">
     <div class="card" style="border-radius:0; position: fixed; width:100%;top:-2px;z-index: 100">
-        <div class="card-header text-center" style="background-color:#EDEDED; border:0">
-            <span class="lead">Marketing Kit BP</span>
+        <div class="card-header" style="background-color:#EDEDED; border:0">
+            <a style="display:inline-block;" href="<?= site_url(); ?>"><img src="<?= base_url('assets/home.png'); ?>" alt="Home" width="24px"></a>
+            <span style="display:inline-block;vertical-align:top;" class="lead ml-3">Materi Pembinaan BP</span>
         </div>
     </div>
 
     <div class="container-fluid" style="margin-top: 80px">
         <div class="row justify-content-center">
+            <div class="col-md-4">
 
-            <div class="col-6 col-sm-4 px-2">
+                <?php foreach ($index as $folder => $files): ?>
                 <div class="card mb-3">
-                    <a href="<?= site_url('kalender'); ?>" class="list-group-item list-group-item-action text-nowrap text-center">
-                        Kalender Konten
-                    </a>
-                </div>
-            </div>
+                    <div class="card-header text-center">
+                        <strong>Kelas <?= rtrim(substr($folder, 3),'/'); ?></strong>
+                    </div>
+                    <div class="list-group list-group-flush">
+                        <?php foreach ($files as $file): ?>
+                            <a href="<?= site_url('materi/detail/'.$folder.$file['file']); ?>" class="list-group-item list-group-item-action <?= ($file['status'] ?? 'publish') == 'draft' ? 'draft disabled' : 'publish';?>"><?= $file['title']; ?></a>
+                        <?php endforeach; ?>
+                    </div>
+              </div>
+                <?php endforeach; ?>
 
-            <div class="col-6 col-sm-4 px-2">
-                <div class="card mb-3">
-                    <a href="<?= site_url('materi'); ?>" class="list-group-item list-group-item-action text-nowrap text-center">
-                        Kelas Online
-                    </a>
-                </div>
-            </div>
-
+          </div>
       </div>
   </div>
+
+<!-- Optional JavaScript; choose one of the two! -->
+
+<!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+<!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script> -->
 </body>
 </html>

@@ -31,32 +31,30 @@
 
     <title>Materi Pembinaan British Propolis</title>
 </head>
-<body style="background-image:url(<?= base_url(); ?>assets/home.jpg);height: 100%;">
+<body style="background-image:url(<?= base_url(); ?>assets/kalender.jpg);height: 100%;">
     <div class="card" style="border-radius:0; position: fixed; width:100%;top:-2px;z-index: 100">
-        <div class="card-header text-center" style="background-color:#EDEDED; border:0">
-            <span class="lead">Marketing Kit BP</span>
+        <div class="card-header" style="background-color:#EDEDED; border:0">
+            <a style="display:inline-block;" href="<?= site_url(); ?>"><img src="<?= base_url('assets/home.png'); ?>" alt="Home" width="24px"></a>
+            <span style="display:inline-block;vertical-align:top;" class="lead ml-3"><a href="<?= site_url('kalender'); ?>">Kalender Konten</a></span>
         </div>
     </div>
 
     <div class="container-fluid" style="margin-top: 80px">
         <div class="row justify-content-center">
+            <?php foreach ($index as $subfolder): ?>
+            <div class="col-4">
 
-            <div class="col-6 col-sm-4 px-2">
                 <div class="card mb-3">
-                    <a href="<?= site_url('kalender'); ?>" class="list-group-item list-group-item-action text-nowrap text-center">
-                        Kalender Konten
-                    </a>
+                    <div class="list-group list-group-flush">
+                        <?php if($folder): ?>
+                            <a href="<?= site_url('kalender/detail/'.$folder.'/'.$subfolder); ?>" class="list-group-item list-group-item-action text-nowrap text-center"><?= str_replace(['/','-'], ' ', $subfolder); ?></a>
+                        <?php else: ?>
+                            <a href="<?= site_url('kalender/index/'.$subfolder); ?>" class="list-group-item list-group-item-action text-nowrap text-center"><?= str_replace(['/','-'], ' ', $subfolder); ?></a>
+                        <?php endif; ?>
+                    </div>
                 </div>
             </div>
-
-            <div class="col-6 col-sm-4 px-2">
-                <div class="card mb-3">
-                    <a href="<?= site_url('materi'); ?>" class="list-group-item list-group-item-action text-nowrap text-center">
-                        Kelas Online
-                    </a>
-                </div>
-            </div>
-
+            <?php endforeach; ?>
       </div>
   </div>
 </body>

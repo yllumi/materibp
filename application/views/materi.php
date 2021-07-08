@@ -33,10 +33,10 @@
 
     <title><?= $title; ?> - Materi Pembinaan BP</title>
 </head>
-<body style="background-image:url(<?= base_url(); ?>assets/bg.jpg);height: 100%;">
+<body style="background-image:url(<?= base_url(); ?>assets/materi.jpg);height: 100%;">
     <div class="card" style="border-radius:0; position: fixed; width:100%;top:-2px;z-index: 100">
         <div class="card-header" style="background-color:#EDEDED; border:0">
-            <a href="<?= site_url(); ?>" class="btn btn-sm btn-secondary">Back</a>
+            <a href="<?= $back; ?>" class="btn btn-sm btn-secondary">Back</a>
             <h4 class="chat-title m-0"><?= $title; ?></h4>
         </div>
     </div>
