@@ -1,0 +1,114 @@
+Cara Membuat Akun YouTube dan Memaksimalkannya
+---
+::cover.jpg
+---
+Bapak Ibu pastinya sudah pada dapet ya materi-materi luar biasa dari para mentor sebelum ini, terutama tentang membuat video.
+---
+Jaman sekarang bikin video sudah sangat mudah. Mulai dari proses rekaman sampai editing semuanya bisa dikerjakan lewat hape. Kalau dulu kita perlu punya komputer yang terinstall aplikasi video editor untuk bisa membuat video. Belum lagi spesifikasi komputernya yang harus lumayan besar karena proses rendering video itu lumayan lama.
+---
+Sekarang sudah banyak aplikasi video editor yang bisa kita install di smartphone. Aplikasinya juga sudah punya fitur yang sangat lengkap, mulai dari proses pemotongan klip, filtering, penambahan caption, sampai transisi dan animasi yang keren-keren.
+---
+Jadi, di materi kali ini kita akan fokus membahas bagaimana cara mempublikasikan video yang sudah kita buat melalui platform YouTube.
+---
+*Membuat Akun YouTube*
+---
+Langkah pertama supaya kita bisa mempublikasikan video buatan kita ke YouTube adalah dengan membuat akun YouTube terlebih dahulu. Tapi sebenernya, setiap pengguna smartphone Android sudah otomatis pasti punya akun Youtube. Karena untuk masuk ke aplikasi Youtube kita menggunakan akun email dari Gmail.
+---
+Sekarang silakan buka aplikasi YouTube di smartphone masing-masing
+---
+::1.jpg
+---
+Cek ikon di bagian kanan atas aplikasi YouTube. Bila sudah muncul ikon avatar bulat seperti ini, itu artinya kita sudah login ke aplikasi YouTube.
+---
+*Catatan:* ada kemungkinan tampilan aplikasi YouTube di hape Bapak Ibu sedikit berbeda dengan yang saya screenshot. Ini terjadi karena perbedaan versi aplikasi. Tidak perlu panik, secara umum cara pakainya sama saja
+---
+::2.jpg
+---
+Sekarang lihat bagian menu di bawah aplikasi. Ada beberapa menu yang bisa kita akses, diantaranya Home, Explore, Subscriptions dan Library
+---
+*Home* adalah halaman yang menampilkan daftar rekomendasi video yang serupa dengan yang sering kita tonton di YouTube. 
+
+*Explore* adalah daftar video yang sedang trending alias banyak ditonton di wilayah kita dan di seluruh dunia. 
+
+*Subscriptions* adalah halaman berisi daftar video dari semua channel YouTube yang kita ikuti. 
+
+Terakhir *Library* adalah daftar video yang sudah pernah kita tonton, video yang kita tandai akan ditonton dan playlist video yang kita buat dan semua daftar video kita sendiri yang pernah kita upload ke YouTube.
+---
+Di tengah menu ada ikon plus (seperti yang ditunjukkan oleh tanda panah pada gambar). Ini adalah tombol untuk mengupload video ke YouTube
+---
+::3.jpg
+---
+Bila tombol plus ditekan, aplikasi akan menampilkan dua opsi, yakni *Upload a video* dan Go live
+---
+Kita akan menggunakan opsi pertama dahulu, yakni Upload a video. Silakan diklik
+---
+::4.jpg
+---
+Akan muncul halaman untuk memilih video yang akan kita upload ke Youtube. Pilih salah satu video yang sudah pernah kita buat.
+---
+*Meng-upload Video*
+---
+::5.jpg
+---
+Pada contoh screenshot ini saya mengupload video rekomendasi Syekh Ali Jaber (Allahu yarham). Bapak ibu silakan pilih video yang lain.
+---
+Isikan form upload seperti Title/judul video dan juga deskripsi
+---
+Kalau sudah, klik tombol *Next* di kanan atas halaman
+---
+::6.jpg
+---
+Nanti akan muncul pengaturan untuk menentukan apakah video yang kita upload ditujukan untuk anak-anak atau dewasa
+---
+Kalau konten video kita ditujukan khusus untuk anak-anak, maka pilih opsi *Yes, it's Made for Kids*. Ini fungsinya untuk menandai video kita supaya nanti bisa muncul di aplikasi Youtube Kids, yakni aplikasi YouTube khusus untuk anak-anak.
+---
+Kalau bukan video anak, pilih opsi yang satunya lagi, yang *No, it's not Made for Kids*. Ini fungsinya untuk menandai video kita supaya ga muncul di aplikasi Youtube Kids.
+---
+::7.jpg
+---
+Kalau kita pilih opsi No, kita bisa menspesifikasikan pengaturan di bagian advanced. Tekan bagian *Age restriction (advanced)* untuk memunculkan opsi lanjutan.
+
+Kalau video kita berisi konten yang hanya boleh ditonton oleh dewasa, pilih opsi *Yes, restrict my video to viewers over 18*. Karena video kita video syiar bisnis, jadi boleh lah ya ditonton oleh anak-anak dan remaja. Maka pilih opsi *No, don't restrict my video to viewers over 18*
+---
+Kalau sudah, tekan tombol *UPLOAD* di kanan atas halaman
+---
+::8.jpg
+---
+Tandanya video kita sedang diupload, dapat kita lihat di menu Library
+---
+::9.jpg
+---
+Kalau sudah selesai diupload, nanti akan tampil pesan seperti ini: Upload complete
+---
+Tekan bagian tersebut untuk melihat daftar video yang sudah pernah kita upload ke Youtube
+---
+::10.jpg
+---
+::10.jpg
+---
+Alhamdulillah, kita sudah berhasil mengupload video ke YouTube! 🥳
+---
+*Membagikan Link Video YouTube*
+---
+Kalau sudah diupload gimana? Ya kita bisa bagikan kepada orang lain supaya mereka bisa menyimak video yang sudah kita upload.
+---
+Bisa dikirim ke Facebook, WhatsApp dan lain-lain
+---
+::12.jpg
+---
+Untuk membagikan video kita, buka video tersebut lalu tekan opsi Share seperti yang ditunjukkan tanda panah pada gambar
+---
+::13.jpg
+---
+Nanti akan muncul pilihan aplikasi kemana kita akan membagikan video tersebut.
+Cara paling mudah adalah dengan memilih opsi *Copy link*. Setelah ditekan, nanti link video YouTube kita akan tersimpan di sistem dan bisa disalin ke aplikasi lain
+---
+::14.jpg
+---
+Misalnya kita kirim ke WhatsApp teman kita atau grup WhatsApp
+---
+Mudah yaa cara upload video ke Youtube 🤩🤩
+---
+Keuntungannya kalau kita upload ke YouTube, video kita ga akan hilang seperti halnya bila kita membagikan langsung video ke WhatsApp. Selain itu, kita juga bisa memantau berapa kali video kita ditonton orang
+---
+::15.jpg
