@@ -92,7 +92,7 @@ Tekan bagian tersebut untuk melihat daftar video yang sudah pernah kita upload k
 ---
 ::10.jpg
 ---
-::10.jpg
+::11.jpg
 ---
 Alhamdulillah, kita sudah berhasil mengupload video ke YouTube! 🥳
 ---
@@ -120,3 +120,30 @@ Mudah yaa cara upload video ke Youtube 🤩🤩
 Keuntungannya kalau kita upload ke YouTube, video kita ga akan hilang seperti halnya bila kita membagikan langsung video ke WhatsApp. Selain itu, kita juga bisa memantau berapa kali video kita ditonton orang
 ---
 ::15.jpg
+---
+Itu pembahasan inti untuk materi kali ini. Tapi saya akan ulas sekilas dua fitur penting lain dari YouTube yang bisa kita maksimalkan
+---
+*YouTube Live*
+---
+Dari tombol Plus yang ada di bagian bawah aplikasi tadi, kita bisa pilih opsi *Go live*
+---
+::16.jpg
+---
+Pertama kali kita akan diminta untuk memberikan hak akses pada aplikasi Youtube supaya bisa pakai kamera dan mikrofon dari smartphone kita
+---
+Pilih opsi *Allow Access*
+---
+Kalau di aplikasi Youtube Bapak Ibu belum muncul tampilan seperti ini, biasanya karena belum melengkapi profil seperti nomor telepon dan belum pernah mengupload video sama sekali.
+---
+Kita nanti akan diminta untuk memasukkan nomor telepon untuk pertama kali
+---
+::17.jpg
+---
+Setelah nomor telepon kita terverifikasi, kita bisa memulai live di Youtube. Isikan terlebih dahulu data untuk video live kita. Isiannya mirip dengan saat kita hendak mengupload video biasa
+---
+Lengkapi semua isian sampai tombol NEXT menjadi berwarna biru.
+Kalau sudah siap, tekan tombol NEXT di bagian bawah.
+---
+Yosh.., selamat ber-live di YouTube!
+---
+Besok akan dikasih materi tips dari Mba Melia supaya live video kita lebih menarik 😃👍🏻
