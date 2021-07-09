@@ -52,7 +52,15 @@ Akan muncul halaman untuk memilih video yang akan kita upload ke Youtube. Pilih 
 ---
 Pada contoh screenshot ini saya mengupload video rekomendasi Syekh Ali Jaber (Allahu yarham). Bapak ibu silakan pilih video yang lain.
 ---
-Isikan form upload seperti Title/judul video dan juga deskripsi
+Isikan data pada form upload seperti *Title* untuk judul video dan juga bagian *description*. Penting untuk memberikan judul video yang sesuai dengan video yang diupload, dan juga penjelasan lebih lanjut terkait isi video pada bagian deskripsi.
+---
+Bila video kita berisi promosi produk, baik secara soft selling maupun hard selling, maka permudah audiens untuk dapat mengontak kita dengan menambahkan nomor kontak. 
+
+Kita bisa menggunakan link WhatsApp supaya audiens bisa langsung terhubung dengan nomor WhatsApp kita.
+---
+Format penulisan link WhatsApp seperti ini: https://wa.me/[nomor-whatsapp] dengan nomor whatsapp diawali dengan 62 sebagai kode negara Indonesia. Contohnya: https://wa.me/628986818780
+
+Pastikan tidak ada tanda baca yang tertinggal seperti titik dua dan garis miring pada linknya. Harus sama persis seperti contoh yaa
 ---
 Kalau sudah, klik tombol *Next* di kanan atas halaman
 ---
